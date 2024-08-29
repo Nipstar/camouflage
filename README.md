@@ -1,2 +1,0 @@
-# camouflage
-My awesome repository
